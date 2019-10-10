@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Ishwary/repo-NodeApp"
+    "url": "https://github.com/kajalkhopade/Devops"
   },
   "keywords": [
     "node",
     "docker",
     "dockerfile"
   ],
-  "author": "ishwarchauthaiwaleg@gmail.com",
+  "author": "kajalkhopade25@gmail.com",
   "license": "ISC",
   "devDependencies": { "test": ">=0.6.0" }
 }
