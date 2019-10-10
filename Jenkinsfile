@@ -10,7 +10,7 @@ node {
     stage('Build image') {
         /* This builds the actual image */
 
-        app = docker.build("kajals1/nodeapp1")
+        app = docker.build("kajals2/nodeapp1")
     }
 
     stage('Test image') {
